@@ -29,6 +29,7 @@ As principais dependências e bibliotecas utilizadas neste projeto incluem:
 A estrutura de diretórios do projeto está organizada da seguinte forma:
 
 Portifolio-26/
+
 ├── lab_proj/
 │   ├── assets/
 
