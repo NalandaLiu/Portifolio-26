@@ -60,19 +60,19 @@ Para visualizar e executar o projeto localmente, não é necessário um ambiente
 ## Telas do Projeto
 
 **Página Inicial (Home):**
-![Home](<img width="1218" height="515" alt="image" src="https://github.com/user-attachments/assets/9ebe1dd4-028c-4349-9106-cc0ec4e1805c" />)
+![Home](figma 1.png)
 
 **Sobre Mim:**
-![Sobre Mim](<img width="1214" height="427" alt="image" src="https://github.com/user-attachments/assets/85721a88-36db-4226-b97e-815a3aa9301f" />)
+![Sobre Mim](figma 2.png)
 
 **Projetos:**
-![Projetos](<img width="1203" height="593" alt="image" src="https://github.com/user-attachments/assets/301f98fe-5615-4b51-aac9-fa841cee5444" />)
+![Projetos](figma 3.png)
 
 **Experiências e Certificados:**
-![Experiências](<img width="1213" height="781" alt="image" src="https://github.com/user-attachments/assets/362d89a2-5b3e-402c-9734-8fa330f0945d" />)
+![Experiências](figma 4.png)
 
 **Idiomas:**
-![Idiomas](<img width="1212" height="327" alt="image" src="https://github.com/user-attachments/assets/b18ea6d2-057d-4f39-a378-1eb6b89c3821" />)
+![Idiomas](figma 5.png)
 
 **Contato:**
-![Contato](<img width="1212" height="384" alt="image" src="https://github.com/user-attachments/assets/83795a8e-036a-434c-bbb3-b0578beda1dd" />)
+![Contato]figma 6.png)
