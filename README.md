@@ -59,6 +59,9 @@ Para visualizar e executar o projeto localmente, não é necessário um ambiente
 
 ## Telas do Projeto
 
+**Figma**
+https://www.figma.com/design/SW509218LvQkS5taqeN3Cy/Portfolio?node-id=1-2&t=mrNCcNjGCVSobvMt-1
+
 **Página Inicial (Home):**
 ![Home](Figma/figma_1.png)
 
