@@ -60,19 +60,19 @@ Para visualizar e executar o projeto localmente, não é necessário um ambiente
 ## Telas do Projeto
 
 **Página Inicial (Home):**
-![Home](Figma/figma 1.png)
+![Home](Figma/figma_1.png)
 
 **Sobre Mim:**
-![Sobre Mim](Figma/figma 2.png)
+![Sobre Mim](Figma/figma_2.png)
 
 **Projetos:**
-![Projetos](Figma/figma 3.png)
+![Projetos](Figma/figma_3.png)
 
 **Experiências e Certificados:**
-![Experiências](Figma/figma 4.png)
+![Experiências](Figma/figma_4.png)
 
 **Idiomas:**
-![Idiomas](Figma/figma 5.png)
+![Idiomas](Figma/figma_5.png)
 
 **Contato:**
-![Contato]Figma/figma 6.png)
+![Contato](Figma/figma_6.png)
