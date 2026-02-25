@@ -29,16 +29,13 @@ As principais dependências e bibliotecas utilizadas neste projeto incluem:
 A estrutura de diretórios do projeto está organizada da seguinte forma:
 
 Portifolio-26/
-
 ├── lab_proj/
 │   ├── assets/
-
-│   │   └── img/                 # Imagens do projeto (ex: hero-bg.jpg)
+│   │   └── img/             # Imagens do projeto (ex: hero-bg.jpg)
 │   ├── css/
-
-│   │   └── style.css            # Folha de estilos personalizada
-│   └── index.html               # Arquivo principal da aplicação (HTML)
-└── README.md                    # Este arquivo README
+│   │   └── style.css        # Folha de estilos personalizada
+│   └── index.html           # Arquivo principal da aplicação (HTML)
+└── README.md                # Arquivo com a documentação do projeto
 
 
 ## Instruções de Instalação e Execução Localmente
