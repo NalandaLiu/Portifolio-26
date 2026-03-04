@@ -4,13 +4,24 @@ body {
 }
 
 .text-purple {
-    color: #6f42c1;
+    color: #2B32B2;
 }
 
+h5{color: #fff;
+      font-weight: 1000;
+text-shadow: 2px 2px 4px rgba(12, 5, 109, 0.8);}
+
+
+h4{color: #2B32B2;
+      font-weight: 700;}
+
 .btn-purple {
-    background-color: #6f42c1;
+    background-color: #2B32B2;
     border: none;
     color: white;
+}
+.progress-bar-purple {
+    background-color: #2B32B2;
 }
 
 .btn-purple:hover {
@@ -19,17 +30,17 @@ body {
 
 .btn-outline-purple {
     border: 1px solid #6f42c1;
-    color: #6f42c1;
+    color: #2B32B2;
 }
 
 .btn-outline-purple:hover {
-    background-color: #6f42c1;
+    background-color: #2B32B2;
     color: white;
 }
 
 .hero {
     height: 90vh;
-    background: url('../assets/img/hero-bg.jpg') no-repeat center center;
+    background: url('../assets/img/3d.jpg') no-repeat center center;
     background-size: cover;
     position: relative;
     padding-top: 80px;
@@ -51,7 +62,7 @@ body {
 
 .icon-link {
     font-size: 2rem;
-    color: #6f42c1;
+    color: #2B32B2;
     margin: 0 15px;
     transition: 0.3s;
 }
@@ -59,12 +70,99 @@ body {
 .icon-link:hover {
     color: #5a34a1;
 }
-
 .timeline {
     border-left: 3px solid #6f42c1;
     padding-left: 20px;
 }
 
-.timeline-item {
+.timeline .timeline-item {
     margin-bottom: 30px;
+}
+
+
+/* ===== TIMELINE PROJETOS (VISUAL COMPLETA) ===== */
+
+.timeline-projects {
+    position: relative;
+    max-width: 900px;
+    margin: auto;
+}
+
+.timeline-projects::after {
+    content: '';
+    position: absolute;
+    width: 4px;
+    background-color: #2B32B2;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    margin-left: -2px;
+}
+
+.timeline-projects .timeline-item {
+    padding: 20px 40px;
+    position: relative;
+    width: 50%;
+}
+
+.timeline-projects .timeline-item.left {
+    left: 0;
+}
+
+.timeline-projects .timeline-item.right {
+    left: 50%;
+}
+
+.timeline-content {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    position: relative;
+}
+
+.timeline-projects .timeline-item::before {
+    content: "";
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    right: -10px;
+    background-color: #2B32B2;
+    border-radius: 50%;
+    top: 30px;
+    z-index: 1;
+}
+
+.timeline-projects .timeline-item.right::before {
+    left: -10px;
+}
+
+.timeline-date {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: #2B32B2;
+}
+
+
+/* ===== RESPONSIVO ===== */
+
+@media screen and (max-width: 768px) {
+
+    .timeline-projects::after {
+        left: 20px;
+    }
+
+    .timeline-projects .timeline-item {
+        width: 100%;
+        padding-left: 60px;
+        padding-right: 25px;
+    }
+
+    .timeline-projects .timeline-item.right {
+        left: 0%;
+    }
+
+    .timeline-projects .timeline-item.left::before,
+    .timeline-projects .timeline-item.right::before {
+        left: 10px;
+    }
 }
