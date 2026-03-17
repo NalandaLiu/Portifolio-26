@@ -40,7 +40,7 @@ h4{color: #2B32B2;
 
 .hero {
     height: 90vh;
-    background: url('../assets/img/3d.jpg') no-repeat center center;
+    background: url('../assets/img/3d.png') no-repeat center center;
     background-size: cover;
     position: relative;
     padding-top: 80px;
